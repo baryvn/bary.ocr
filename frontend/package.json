@@ -1,0 +1,27 @@
+{
+  "name": "adms-frontend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^3.12.0",
+    "vue": "^3.4.29",
+    "vue-router": "^4.4.0",
+    "@pinia/nuxt": "^0.5.1",
+    "pinia": "^2.1.7",
+    "axios": "^1.7.2",
+    "@vueuse/core": "^10.11.0",
+    "@vueuse/nuxt": "^10.11.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.4",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39"
+  }
+}

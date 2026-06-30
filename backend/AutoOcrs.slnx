@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AutoOcrs.Api/AutoOcrs.Api.csproj" />
+    <Project Path="src/AutoOcrs.AppHost/AutoOcrs.AppHost.csproj" />
+    <Project Path="src/AutoOcrs.Core/AutoOcrs.Core.csproj" />
+    <Project Path="src/AutoOcrs.Infrastructure/AutoOcrs.Infrastructure.csproj" />
+    <Project Path="src/AutoOcrs.ServiceDefaults/AutoOcrs.ServiceDefaults.csproj" />
+    <Project Path="src/AutoOcrs.Worker/AutoOcrs.Worker.csproj" />
+  </Folder>
+</Solution>

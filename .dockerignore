@@ -1,0 +1,4 @@
+# e:\ecoit\sohoax10\orcservices\.dockerignore
+# models/
+.venv/
+__pycache__/
