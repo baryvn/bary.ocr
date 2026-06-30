@@ -1,6 +1,6 @@
-# BARY OCR (AutoOcrs) - Hệ Thống Số Hóa Và Trích Xuất Dữ Liệu Tự Động
+# BARY OCR - Hệ Thống Số Hóa Và Trích Xuất Dữ Liệu Tự Động
 
-BARY OCR (tên mã nội bộ: AutoOcrs) là một giải pháp toàn diện giúp doanh nghiệp tự động hóa quá trình số hóa tài liệu. Hệ thống sử dụng công nghệ Nhận dạng ký tự quang học (OCR) kết hợp với Trí tuệ nhân tạo (LLM - Mô hình ngôn ngữ lớn) để không chỉ đọc văn bản từ hình ảnh/PDF mà còn thông minh phân loại tài liệu và bóc tách các trường thông tin cần thiết một cách hoàn toàn tự động.
+BARY OCR là một giải pháp toàn diện giúp doanh nghiệp tự động hóa quá trình số hóa tài liệu. Hệ thống sử dụng công nghệ Nhận dạng ký tự quang học (OCR) kết hợp với Trí tuệ nhân tạo (LLM - Mô hình ngôn ngữ lớn) để không chỉ đọc văn bản từ hình ảnh/PDF mà còn thông minh phân loại tài liệu và bóc tách các trường thông tin cần thiết một cách hoàn toàn tự động.
 
 ## 🌟 Tính Năng Nổi Bật
 
