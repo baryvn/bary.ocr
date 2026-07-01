@@ -49,13 +49,13 @@ mkdir models
 Dưới đây là danh sách **CHÍNH XÁC** các mô hình cần thiết cho hệ thống BARY OCR. Vui lòng tải đầy đủ và đúng tên file.
 
 **A. Mô hình Phân loại & Bóc tách (LLM Text & Vision)**
-- **Link Hugging Face tham khảo:** [google/gemma-4-E2B-it-GGUF](https://huggingface.co/models?search=gemma-4-E2B_q4_0-it) (hoặc repo lưu trữ nội bộ)
+- **Link Hugging Face tham khảo:** [google/gemma-4-E2B-it-GGUF](https://huggingface.co/models?search=gemma-4-E2B_q4_0-it) 
 - **Các file bắt buộc tải:**
   - `gemma-4-E2B_q4_0-it.gguf` (Model ngôn ngữ chính)
   - `gemma-4-E2B-it-mmproj.gguf` (Vision Projector cho model ngôn ngữ nếu dùng đa phương thức)
 
 **B. Mô hình OCR Vision (PaddleOCR-VL)**
-- **Link Hugging Face tham khảo:** [PaddlePaddle/PaddleOCR-VL-1.6-GGUF](https://huggingface.co/models?search=PaddleOCR-VL-1.6-GGUF) (hoặc repo lưu trữ nội bộ)
+- **Link Hugging Face tham khảo:** [PaddlePaddle/PaddleOCR-VL-1.6-GGUF](https://huggingface.co/models?search=PaddleOCR-VL-1.6-GGUF) 
 - **Các file bắt buộc tải:**
   - `PaddleOCR-VL-1.6-GGUF.gguf` (Model OCR chính)
   - `PaddleOCR-VL-1.6-GGUF-mmproj.gguf` (Vision Projector tiêu chuẩn)
